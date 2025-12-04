@@ -208,6 +208,15 @@
       "sentiment": "중립"
     },
     {
+      "title": "AI는 Anthropic의 업무를 어떻게 바꾸고 있는가",
+      "link": "https://news.hada.io/topic?id=24824",
+      "description": "Anthropic 내부 엔지니어·연구진 132명 조사에서 Claude 중심 AI 협업이 업무 방식 전반을 바꾸며 생산성과 업무 범위가 동시에 확장되고 있음 직원들은 업무의 59%에서 Claude를 사용하며 평균 50% 생산성 향상을 체감하고 있고, 산출물 양이 크게 늘어나면서도 시...",
+      "published": "2025-12-04T02:31:01",
+      "summary": "❌ 모델 오류: Gemini API 모델을 찾을 수 없습니다.",
+      "keywords": [],
+      "sentiment": "중립"
+    },
+    {
       "title": "MinIO가 유지보수 모드로 전환됨",
       "link": "https://news.hada.io/topic?id=24823",
       "description": "고성능 S3 호환 오브젝트 스토리지인 MinIO가 현재 유지보수 전용 상태로 전환됨 새로운 기능 추가나 Pull Request 수락이 중단되며, 기존 이슈 검토도 중단됨 보안 취약점 수정은 사례별로 제한적으로 검토될 예정...",
@@ -323,6 +332,15 @@
       "description": "Dye led Apple's user interface team for the last decade.",
       "published": "2025-12-03T23:37:26",
       "summary": "요약 생성 중 오류 발생: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "keywords": [],
+      "sentiment": "중립"
+    },
+    {
+      "title": "Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs",
+      "link": "https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/",
+      "description": "Dye led Apple's user interface team for the last decade.",
+      "published": "2025-12-03T23:37:26",
+      "summary": "❌ 모델 오류: Gemini API 모델을 찾을 수 없습니다.",
       "keywords": [],
       "sentiment": "중립"
     },
